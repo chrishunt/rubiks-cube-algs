@@ -1,6 +1,6 @@
 3x3x3 Rubik's Cube Algs
 =======================
-Collection of Rubik's Cube alogorithms
+Collection of Rubik's Cube algorithms
 
 OLL (Orient Last Layer)
 -----------------------
